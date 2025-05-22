@@ -1,0 +1,15 @@
+---
+title: "Week 2 5/22 Code along"
+subtitle: "names, lists, and loops"
+format: html
+editor: visual
+---
+
+````         
+## Packages  
+
+```{r} 
+library(tidyverse) library(palmerpenguins) 
+
+```
+````
